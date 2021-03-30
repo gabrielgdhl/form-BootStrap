@@ -1,0 +1,15 @@
+.container{
+    background-image: linear-gradient(to right, rgba(124, 231, 208, 0.959), rgb(174, 138, 228));
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.btn{
+    background-color: bisque;
+}
+
+.container h1{
+    font-weight: 900;
+    font-style: italic;
+}
